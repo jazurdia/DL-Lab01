@@ -1,2 +1,5 @@
 # ignore everything inside the img directory
 img/
+
+# ignora este archivo: lab1 (1).ipynb
+lab1 (1).ipynb
